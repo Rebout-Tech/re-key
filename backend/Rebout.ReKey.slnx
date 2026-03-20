@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Rebout.ReKey.Api/Rebout.ReKey.Api.csproj" />
+    <Project Path="src/Rebout.ReKey.Application/Rebout.ReKey.Application.csproj" />
+    <Project Path="src/Rebout.ReKey.Cli/Rebout.ReKey.Cli.csproj" />
+    <Project Path="src/Rebout.ReKey.Domain/Rebout.ReKey.Domain.csproj" />
+    <Project Path="src/Rebout.ReKey.Infrastructure/Rebout.ReKey.Infrastructure.csproj" />
+    <Project Path="src/Rebout.ReKey.Web/Rebout.ReKey.Web.csproj" />
+  </Folder>
+</Solution>

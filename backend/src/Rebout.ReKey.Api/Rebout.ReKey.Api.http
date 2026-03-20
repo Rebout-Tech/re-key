@@ -1,0 +1,6 @@
+@Rebout.ReKey.Api_HostAddress = http://localhost:5237
+
+GET {{Rebout.ReKey.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
